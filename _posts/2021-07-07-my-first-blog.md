@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "firstBlog"
+title:  "First Blog"
 date:   2021-07-07
 categories: blog
+author:     "YZ"
+catalog: false
+header-style: text
+tags:
+  - 日常
 ---
 
 # 第一个博客 #

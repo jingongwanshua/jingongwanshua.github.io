@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "YZ Blog",
+  "short_name": "YZ Blog",
+  "description": "About Java, Oracle, JS, Spring Boot, algorithm, daily record.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
