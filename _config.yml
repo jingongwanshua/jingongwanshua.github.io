@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 1142379601@qq.com
 description: "记录生活点滴，学习技术，记录问题"
 keyword: ""
-url: ""              # your host, for absolute URL
+url: "https://jingongwanshua.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
